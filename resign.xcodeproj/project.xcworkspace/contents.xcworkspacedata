@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:iReSign.xcodeproj">
+      location = "self:resign.xcodeproj">
    </FileRef>
 </Workspace>
